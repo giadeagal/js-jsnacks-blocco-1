@@ -1,0 +1,8 @@
+body {
+    background-color: darkslateblue;
+    color: goldenrod;
+    text-align: center;
+    line-height: calc(100vh - 1rem);
+    font-family: 'Arizonia', cursive;
+    font-size: 10rem;
+}
