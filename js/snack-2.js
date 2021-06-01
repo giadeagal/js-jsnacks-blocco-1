@@ -9,3 +9,17 @@ for (var i = 0; i < 5; i++) {
 };
 
 document.getElementById("printer").innerHTML = somma;
+
+
+
+// Snack 2 - versione while
+var somma = 0;
+var i = 0;
+
+while (i < 5) {
+    var num = parseInt(prompt("Inserisci un numero"))
+    somma += num
+    i++
+};
+
+document.getElementById("printer").innerHTML = somma;
