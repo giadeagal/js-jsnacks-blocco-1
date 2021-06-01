@@ -1,4 +1,3 @@
-// Snack 1
 document.getElementById("title").innerHTML = "Qual è la parola più corta?"
 
 var wordOne = prompt("Inserisci una parola");
